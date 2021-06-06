@@ -1,0 +1,6 @@
+C:\VS\CoffeeStore\Library\bin\Debug\Library.dll
+C:\VS\CoffeeStore\Library\bin\Debug\Library.pdb
+C:\VS\CoffeeStore\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\VS\CoffeeStore\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\VS\CoffeeStore\Library\obj\Debug\Library.dll
+C:\VS\CoffeeStore\Library\obj\Debug\Library.pdb

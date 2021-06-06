@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<coffee>
+  <coffee name="Эспрессо" price="50" number="24"/>
+  <coffee name="Доппио" price="55" number="23"/>
+  <coffee name="Триппло" price="60" number="22"/>
+  <coffee name="Ристретто" price="65" number="21"/>
+  <coffee name="Лунго" price="70" number="20"/>
+  <coffee name="Американо" price="75" number="19"/>
+  <coffee name="Флэт Вайт" price="80" number="18"/>
+  <coffee name="Каппучино" price="85" number="17"/>
+  <coffee name="Маккиато" price="90" number="16"/>
+  <coffee name="Латте" price="95" number="15"/>
+  <coffee name="Кон панна" price="100" number="14"/>
+  <coffee name="Бреве" price="105" number="13"/>
+  <coffee name="Кофе по венски" price="110" number="12"/>
+  <coffee name="Латте макиато" price="115" number="11"/>
+  <coffee name="Фредо" price="120" number="10"/>
+  <coffee name="Айриш" price="125" number="9"/>
+  <coffee name="Коретто" price="130" number="8"/>
+  <coffee name="Раф кофе" price="135" number="7"/>
+  <coffee name="Романо" price="140" number="6"/>
+  <coffee name="Медовый раф" price="145" number="5"/>
+  <coffee name="Гляссе" price="150" number="4"/>
+  <coffee name="Мокко" price="155" number="3"/>
+  <coffee name="Марочино" price="160" number="2"/>
+  <coffee name="Бичерин" price="165" number="1"/>
+</coffee>
